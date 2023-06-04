@@ -47,7 +47,7 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 ## DEPLOYMENT 🚀
 
 #### This website is deployed at [Heroku](https://www.heroku.com/)
-#### You can access it [here](https://Go Green Cultivation.herokuapp.com/)
+#### You can access it [here](https://GoGreenCultivation.herokuapp.com/)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 ## How to use 💻
